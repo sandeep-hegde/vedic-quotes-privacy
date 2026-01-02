@@ -13,6 +13,6 @@ This repository contains the privacy policy webpage for Vedic Quotes, hosted usi
 ## Contact
 
 For questions about the privacy policy:
-- **Email:** advaya.appa@gmail.com
+- **Email:** advaya.apps@gmail.com
 - **Developer:** Sandeep Hegde
 - **Location:** Bengaluru, Karnataka, India
